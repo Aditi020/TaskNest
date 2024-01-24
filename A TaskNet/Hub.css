@@ -13,18 +13,18 @@
     align-self: flex-start;
     text-align: center;
     font: 3em sans-serif;
-    color: #a24040e9;
+    font-weight: 600;
+    color: #693a17;
     font-family: 'Roboto', sans-serif;
 }
 
 .container {
     position: relative;
-    border: 26px solid #362929;
     display: flex;
     justify-content: center !important;
     align-items: center !important;
     height: 100vh;
-    background-image: linear-gradient(to left, #faead4 20%, #fbd7cb, #f6ded5, #ffd7ca 80%);
+    background-image: linear-gradient(to top, #e6a7c8 0%, #9ccaef 100%);
 }
 
 .card {
