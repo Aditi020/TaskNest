@@ -1,0 +1,20 @@
+{
+  "name": "tasknest",
+  "version": "1.0.0",
+  "description": "TaskNest Project",
+  "main": "Hub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditi020/TaskNest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditi020/TaskNest/issues"
+  },
+  "homepage": "https://github.com/Aditi020/TaskNest#readme"
+}
